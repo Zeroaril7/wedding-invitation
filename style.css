@@ -1,4 +1,3 @@
-
 .banner {
     height: 100vh;
     background: url(asset/StockSnap_V8TGHH7O8U.jpg);
@@ -15,10 +14,8 @@
 }
 
 .story {
-    height: 80vh;
+    height: 60vh;
     display: flex;
-    justify-content: center;
-
 }
 
 .image {
@@ -45,4 +42,3 @@
     align-items: center;
     flex-direction: column;
 }
-
